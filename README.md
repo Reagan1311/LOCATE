@@ -1,8 +1,8 @@
 # LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding
+[![arXiv](https://img.shields.io/badge/arXiv-2303.09665-b31b1b.svg)](https://arxiv.org/abs/2303.09665)
 [![GitHub](https://img.shields.io/website?label=Project%20Page&up_message=page&url=https://reagan1311.github.io/locate/)](https://reagan1311.github.io/locate/)
-[![ ](https://img.shields.io/youtube/views/RLHansdFxII?label=YouTube&style=flat)](https://www.youtube.com/watch?v=RLHansdFxII&feature=youtu.be)
 
-Official pytorch implementation of "LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding".
+Official pytorch implementation of our CVPR 2023 paper - LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding.
 
 **Code will be released soon.**
 
